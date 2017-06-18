@@ -4,3 +4,11 @@ It will save all the future changes of this repository without havind to create 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is a working directory without the commits, git add ; adds the files ready to commit. It gives you the option to choose the files that you are going to track through the changes
 
+How can you use the staging area to make sure you have one commit per logical change?
+you get to choose to add only the files you would want to the changes to commit instead of all the changes you make in all the files. Commits will be smaller too.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+They are helpful for adding experimental features, creating  different versions of the same product, maybe different languages etc.
+
+
+
