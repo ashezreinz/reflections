@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It will save all the future changes of this repository without havind to create multiple copies in case i need backups
