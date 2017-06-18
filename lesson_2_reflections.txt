@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 It will save all the future changes of this repository without havind to create multiple copies in case i need backups
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is a working directory without the commits, git add ; adds the files ready to commit. It gives you the option to choose the files that you are going to track through the changes
+
