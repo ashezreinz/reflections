@@ -13,5 +13,10 @@ They are helpful for adding experimental features, creating  different versions 
 How do the diagrams help you visualize the branch structure?
 they are helpful and easier for me to understand the commits flow and which commits are being applied to which branches; also the current master branch
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+it compares the additions and deletions and forms a new master commit. The diagram is easier to understand to see which commits were left out
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging saves time but you wouldn't what changes were made in the process. Manual merging will give you a headsup about the changes being made and the authors will get to choose between keeping them or discarding them; cons - have to check the changes manually and also takes time.
 
 
