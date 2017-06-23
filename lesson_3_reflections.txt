@@ -27,3 +27,8 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     sperate branch will allow you to experiment without the fear of losing changes to the original master branch
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+one example might when other users would make changes and push you would would be having interference with your own code. 
+the freedom to push gives you the flexibilty just when you want to commit changes to github
+
