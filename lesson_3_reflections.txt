@@ -41,3 +41,7 @@ so that you would know the code that is already there and it would be confusing 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 copy saved versions of code either email, pendrives or dropbox. it would be a tedious process because you have to manually download the code to your machine and then run it. git does it with just one line of code
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Easy collaboartion : Other collaborators can check and confirm before the code is merged to the master. 
+Since you are working on extended feature or a bugfix and you already have a working master, it is easy to experiment and try out your new code.
