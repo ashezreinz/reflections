@@ -32,3 +32,11 @@ Why might you want to always pull changes manually rather than having Git automa
 one example might when other users would make changes and push you would would be having interference with your own code. 
 the freedom to push gives you the flexibilty just when you want to commit changes to github
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork is just cloning in github repository instead of local machine. clone is just saving a copy of a github reposiory onto your local machine.
+if it is other persons reposiory and i dont have the permission and i can fork into my profile and use it as my own
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+so that you would know the code that is already there and it would be confusing if code changes were happening without your knowledge
+
+
